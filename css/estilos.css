@@ -1,0 +1,13 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+strong {
+    color: #0a2ff1;
+}
+div {
+    color: #04146c;
+}
+@media (min-width: 768px){
+    #img { width: 80%;   }
+}
+
